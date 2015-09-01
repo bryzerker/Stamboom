@@ -9,7 +9,7 @@ import stamboom.util.StringUtilities;
 
 public class Gezin {
 
-    // *********datavelden*************************************
+    // *********datavelden**************************************
     private final int nr;
     private final Persoon ouder1;
     private final Persoon ouder2;
